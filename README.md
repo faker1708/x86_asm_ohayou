@@ -7,3 +7,6 @@ x86平台汇编入门
 
 这里可以获取dos汇编的环境。
 https://blog.csdn.net/qq_43722079/article/details/107690205
+
+这里是视频
+https://www.bilibili.com/video/BV1zW411n79C?p=21&spm_id_from=pageDriver
